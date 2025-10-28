@@ -1,0 +1,11 @@
+{
+  "source_url": "https://api.data.gov.in/resource/9ef84268-d588-465a-a308-a864a43d0070",
+  "filters": {
+    "State": null,
+    "District": null,
+    "Commodity": null,
+    "Arrival_Date": null
+  },
+  "retrieved_at": "2025-10-27T22:56:46.591235Z",
+  "records_fetched": 0
+}
